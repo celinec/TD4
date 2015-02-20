@@ -35,9 +35,7 @@ section#etude{text-align : center;border : 3px solid #04B486;border-radius : 2em
 a:link{text-decoration:none}
 a:hover{text-decoration:underline}
 
-<<<<<<< HEAD
-section:nth-child(2n+1) {background: #A4A4A4;}
-=======
+
 /* Colorie une section sur deux en gris */
 section:nth-child(2n+1) {background: #A4A4A4;}
->>>>>>> 40048d3125085a24039aac355660f205ab0c04e2
+
